@@ -36,7 +36,7 @@ foody =[100,500]
 foodfound =[]
 
 #Speed /  FPS
-speed = 30
+speed = 100
 
 #No. of Ants in Simulation
 nants = 100
